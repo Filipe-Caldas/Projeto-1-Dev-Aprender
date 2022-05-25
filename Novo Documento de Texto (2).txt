@@ -1,0 +1,3 @@
+Digite um email
+Digite uma senha
+Digite sua idade
